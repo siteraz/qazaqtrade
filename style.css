@@ -210,6 +210,18 @@ footer p
     color: #000;
 }
 
-.w-25 {
-    width: 25%;
-}
+@media (min-width: 1281px) {
+  
+    .w-25 {
+        width: 25%;
+    }
+    
+  }
+
+  @media (min-width: 320px) and (max-width: 480px) {
+  
+    .mb-100 {
+        width: 100%;
+    }
+    
+  }
