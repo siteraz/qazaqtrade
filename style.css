@@ -47,7 +47,7 @@ body {
     background: url(images/fon.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: left;
     background-attachment: fixed;
 }
 
