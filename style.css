@@ -10,6 +10,7 @@ h1, h2, h3, h4, h5, h6
 h1, h2, h3, h4, h5, h6
 {
     margin-bottom: 1.1em;
+    color: #FFF;
 }
 
 .features,
@@ -42,10 +43,26 @@ span.x4:before, i.x4:before
     font-size: 6em;
 }
 
+body {
+    background: url(images/fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+p, span{
+    color: #FFF;
+}
+
 
 /*------------------------------------*\
 	HEADER
 \*------------------------------------*/
+
+#photos {
+    background: transparent;
+}
 
 header .container-fluid
 {
