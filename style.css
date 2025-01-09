@@ -227,6 +227,10 @@ footer p
     color: #000;
 }
 
+.quote {
+    font-size: 20px;
+}
+
 @media (min-width: 1281px) {
   
     .w-25 {
