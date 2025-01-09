@@ -66,10 +66,10 @@ p, span{
 
 header .container-fluid
 {
-    background-image: url('images/hero.jpg');
+    background-image: url('images/hero.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: 0%;
+    background-position: 45%;
     height: 100vh;
     padding-top: 36px;
 }
@@ -229,6 +229,10 @@ footer p
 
 .quote {
     font-size: 20px;
+    -webkit-text-shadow: 1px -5px 4px rgba(0, 0, 0, 0.5);
+    -moz-text-shadow: 1px -5px 4px rgba(0, 0, 0, 0.5);
+    text-shadow: 1px -5px 4px rgba(0, 0, 0, 0.5);
+    padding-top: 10px;
 }
 
 @media (min-width: 1281px) {
