@@ -200,6 +200,7 @@ header .container-fluid
 
 footer
 {
+    font-family: 'Roboto Slab', serif;
     background-color: rgba(36, 50, 59, 1);
     padding-top: 2em;
     padding-bottom: 1.2em;
